@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(194, 184, 184);
+}
+fieldset{
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+}
+legend{
+    font-size: 20px;
+    color: teal;
+}
+input{
+    padding: 10px;
+    background-color: rgb(209, 202, 202);
+    outline: none;
+}
+button{
+   grid-column: 1/3;
+   padding: 10px;
+   background-color: rgb(209, 202, 202);
+}
+form{
+    display: grid;
+    grid-template-columns: repeat(2,40%);
+    grid-gap: 10px;
+    cursor: pointer;
+}
+p{
+    color: red;
+}

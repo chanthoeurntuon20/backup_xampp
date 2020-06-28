@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: serif;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+ul li {
+    padding: 20px;
+}
+ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}

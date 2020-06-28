@@ -1,0 +1,11 @@
+.container{
+    width: 90%;
+}
+.blog-post{
+    width: 60%;
+    background: blue;
+}
+.side{
+    width: 30%;
+    background: gray;
+}

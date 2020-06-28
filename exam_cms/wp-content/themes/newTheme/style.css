@@ -1,0 +1,139 @@
+/* 
+Theme Name: Pro
+Authoer: Chanthoeurn Tuon
+Version: 0.01
+
+*/
+/* Menu */
+.au-na{
+    background: gray;
+}
+.container{
+    margin-top: 50px;
+}
+#menu-menu{
+    list-style: none;
+    margin-top: 10px;
+    
+}
+#menu-menu .menu-item{
+    display: inline;
+    margin-left: 20px;
+    background: black;
+}
+ul{
+    color: #ffffff;
+    list-style: none;
+}
+ul li a{
+    color: #ffffff;
+}
+/* footer */
+.menu-item{
+    list-style: none;
+    
+}
+.menu{
+    margin-left: 80px;
+}
+.menus{
+    display: flex;
+    
+}
+/*comment*/
+.comment{
+    list-style: none;    
+    margin-top: 20px;
+}
+h5{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.name{
+    margin-left: 30px;
+}
+.header{
+    background: url("images\(2\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    opacity: 0.8;
+}
+.search{
+    margin-left: 300px;
+    
+}
+#s{
+    border-radius: 4px;
+    outline: none;
+    border: none;
+}
+
+/* footer */
+
+.footer{
+    background-color: black;
+    width: 100%;
+    color: #ffffff;
+}
+
+.col-sm-3{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.copy{
+    margin-left: 50%;
+    margin-top: 20px;
+}
+
+/* post */
+.page{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    padding: 10px;
+    color: #ffffff;
+}
+.page-item{
+    text-decoration: none;
+}
+.post{
+    width: 60%;
+}
+.side{
+    width: 28%;
+    background: rgb(238, 229, 221);
+    margin-left: 130px;
+    padding: 40px;
+    height: 550px;
+}
+.category{
+    margin-top: 20px;
+    border-radius: 7px;
+    border: none;
+    background: rgb(134, 145, 134);
+    padding: 10px;
+    margin-left: 20px;
+}
+
+/* front page */
+
+.col-12{
+    background: rgb(148, 137, 137);
+    color:#fff;
+    margin-top: 20px;
+    
+}
+.comment{
+    display: flex;
+}
+/* page contact us*/
+.row{
+    display: flex;
+}
+.col-sm-6{
+    
+}

@@ -1,0 +1,31 @@
+/*theme name : lifeTheme
+author : root
+author url : http://localhost/cms
+version : 1.0
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(34, 139, 224);
+    padding: 12px;
+    color: white;
+    border: 2px red;
+}
+footer{
+    background-color: black;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+header h1{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+}
+.container{
+    width: 1020px;
+
+}

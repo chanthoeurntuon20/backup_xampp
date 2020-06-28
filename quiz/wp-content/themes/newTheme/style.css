@@ -1,0 +1,14 @@
+/* 
+    Theme name: Create new
+    Author: Chanthoeurn tuon
+*/
+ @import url('css/bootstrap.min.css');
+body{
+    background-color: gray;
+}
+.menu-1{
+    padding: 15px;
+}
+.image{
+    width: 100px;
+}
